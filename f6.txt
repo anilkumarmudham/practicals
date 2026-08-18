@@ -1,1 +1,2 @@
 6th file
+3rd merge conflict checking
