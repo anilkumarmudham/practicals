@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-echo file adding second time
-=======
 echo file
 hello
->>>>>>> 3edff6692a918d231ecd4d79e7d0e3098cd941ec
-third file
+
