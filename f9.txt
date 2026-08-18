@@ -1,2 +1,6 @@
 9th file
+<<<<<<< HEAD
 9th file
+=======
+testing the merge conflict 4
+>>>>>>> 8bac42a47fbb58d8befed9c5a9f75b41f076a862
